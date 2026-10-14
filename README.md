@@ -2,6 +2,8 @@
 
 Student at McMaster University, interested in performance engineering, developer tooling, and AI agents.
 
+Currently building [**RoCam**](https://github.com/SpaceY-Labs/RoCam) — a high-performance, vision-guided rocket tracker. It combines real-time computer vision, closed-loop predictive gimbal control, and a web-based operator interface to autonomously follow model rockets and capture smooth 1080p @ 60fps video of staging and parachute deployment. It is designed to scale up to the McMaster Rocketry Team's high-powered rockets (3 km+ apogee).
+
 ## 🌍 Open Source Contributions
 
 | Project | Contribution | Status |
